@@ -1,7 +1,1 @@
-akka-java-demo
-==============
-
-Akka Sample Projects for java
-
-
-Author : Ritesh
+bullshot happend. sorry for that :(
